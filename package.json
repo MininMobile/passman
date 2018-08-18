@@ -1,0 +1,22 @@
+{
+  "name": "passman",
+  "version": "1.0.0",
+  "description": "A local password manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MininMobile/passman.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MininMobile/passman/issues"
+  },
+  "homepage": "https://github.com/MininMobile/passman#readme",
+  "dependencies": {
+    "electron": "^2.0.7"
+  }
+}
