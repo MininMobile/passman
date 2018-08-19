@@ -1,0 +1,13 @@
+html, body {
+	cursor: pointer;
+}
+
+.upload-graphic::before {
+	content: "🡅";
+	color: currentColor;
+	font-size: 30vh;
+}
+
+.container {
+	color: #161616;
+}
